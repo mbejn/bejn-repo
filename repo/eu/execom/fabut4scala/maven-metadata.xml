@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>eu.execom</groupId>
+  <artifactId>fabut4scala</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170823142828</lastUpdated>
+  </versioning>
+</metadata>
